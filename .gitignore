@@ -81,3 +81,9 @@ InitTestScene*.unity*
 # Blender files
 *.blend1
 *.blend1.meta
+
+# AI Generated Textures
+Assets/Textures/
+
+# Source Assets
+Assets/Source/
